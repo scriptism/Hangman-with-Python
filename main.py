@@ -2,7 +2,7 @@ import random
 print("Welcome to Hangman!")
 words = ["hacker", "bounty", "python"]
 secret_word = random.choice(words)
-# print(secret_word)
+print(secret_word)
 display_word = []
 for letter in secret_word:
     display_word += "-"

@@ -20,3 +20,4 @@ while not game_over:
     if "-" not in display_word:
         print("Congratulations! You've guessed the word!")
         game_over = True
+

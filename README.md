@@ -1,4 +1,4 @@
-# Scriptism – python
+# Scriptism – Python
 
 A hangman game to play in python.
 

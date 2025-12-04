@@ -1,6 +1,6 @@
-# Scriptism – Simple
+# Scriptism – python
 
-A tiny command-line .... app that ...., shows a four-item menu, and records their order.
+A hangman game to play in python.
 
 ## How to run
 
